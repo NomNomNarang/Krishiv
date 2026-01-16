@@ -1,4 +1,4 @@
-<h1> <p align="center> 🌾 Krishiv 🚜 </p> </h1>
+<h1> <p align="center">🌾 Krishiv 🚜</p> </h1>
 <p align="center"> <b>Smart Irrigation Planner</b><br> <i>Technology for Sustainable Farming</i> </p> <p align="center"> 🌱 <b>AgriTech Solution</b> &nbsp; | &nbsp; 💧 <b>Water Optimization</b> </p>
 <p align="center"> <img src="https://img.shields.io/badge/STATUS-PROJECT%20ACTIVE-2ecc71?style=for-the-badge"/> <img src="https://img.shields.io/badge/FOCUS-SMART%20AGRICULTURE-27ae60?style=for-the-badge"/> <img src="https://img.shields.io/badge/DOMAIN-AGRITECH-8e44ad?style=for-the-badge"/> <img src="https://img.shields.io/badge/WEB-PLATFORM-2980b9?style=for-the-badge"/> </p>
 <p align="center"> <b>A smart irrigation planning platform designed to help farmers optimize water usage.</b><br> <i>Built to support sustainable, data driven agriculture.</i> </p>
