@@ -1,89 +1,95 @@
-# 🌾🔥 KRISHIV – SMART IRRIGATION PLANNER 🔥🌾
+🌾🔥 KRISHIV | SMART IRRIGATION PLANNER 🔥🌾
+<p align="center"> <img src="https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif" width="300"> </p>
+🌱 Krishiv is the future of farming 💧
 
-<p align="center">
-  ![Crazy Welcome](https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif)
-</p>
+Smart water usage. Better crops. Sustainable agriculture.
 
-### Krishiv is the future of farming 🌱💧
+🎥 Demo Video (Click to Play)
 
----
+👉 Watch the full demo here:
+🔗 https://drive.google.com/drive/folders/1hjkgi4lD-As3L4-6LNRWXdcFALupYJES?usp=drive_link
 
-## 🎥 Demo Video (Click to Play)
+<p align="center"> <img src="https://media.giphy.com/media/xT0GqFhyNd0Wmfo6sM/giphy.gif" width="250"> </p>
 
-👉 **Watch the demo here:**
-https://drive.google.com/drive/folders/1hjkgi4lD-As3L4-6LNRWXdcFALupYJES?usp=drive_link
+GitHub does not support embedding Google Drive videos directly, so click the link above to view the demo.
 
+🚀 What is Krishiv?
 
-<p align="center">
-  ![Demo GIF](https://media.giphy.com/media/xT0GqFhyNd0Wmfo6sM/giphy.gif)
-</p>
+Krishiv is a smart irrigation planning system designed to help farmers and agricultural planners use water efficiently and make data driven irrigation decisions.
 
----
+It focuses on:
 
-## 🚀 What Is Krishiv?
+Reducing water wastage
 
-Krishiv is a **smart irrigation planner** that helps farmers use water efficiently, plan irrigation tasks, and make data-driven farming decisions.
+Improving crop productivity
 
----
+Supporting sustainable farming practices
 
-## 📁 Project Structure
+<p align="center"> <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="230"> </p>
+🤯 Why Krishiv?
 
-```
+✅ Smart irrigation planning
+✅ Clean and user friendly interface
+✅ Scalable backend architecture
+✅ Ready for AI and ML integration
+✅ Built for real world agricultural use
+
+📁 Project Structure
 Krishiv/
-├─ frontend/
-├─ backend/
-├─ README.md
-└─ other-files
-```
+│
+├── frontend/        # User interface
+├── backend/         # Server and APIs
+├── README.md        # Documentation
+└── other files
 
----
+🛠 Tech Stack
+Frontend
 
-## 🛠 Tech Stack
+TypeScript
 
-Frontend: TypeScript
-Backend: REST APIs
-Tools: Node.js / Python
+Modern frontend framework
 
----
+Backend
 
-## ⚡ Get Started
+REST APIs
 
-**Clone it:**
+Node.js or Python based backend
 
-```
+Tools
+
+Git
+
+GitHub
+
+<p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"> </p>
+⚡ Getting Started
+1️⃣ Clone the repository
 git clone https://github.com/SprihaPodder/Krishiv.git
-```
 
-**Frontend install:**
+2️⃣ Move into the project
+cd Krishiv
 
-```
+3️⃣ Frontend setup
 cd frontend
 npm install
 npm start
-```
 
-**Backend install:**
-
-```
+4️⃣ Backend setup
 cd backend
-npm install   // or pip install -r requirements.txt
-npm start     // or python app.py
+npm install
+# or
+pip install -r requirements.txt
 
----
+npm start
+# or
+python app.py
 
-## 🌟 Future Features
+🌟 Future Enhancements
+Weather API integration
+Crop specific irrigation recommendations
+AI based irrigation prediction
+Analytics and insights dashboard
 
-* Weather API integration
-* Crop specific smart plans
-* AI prediction engine
-* Analytics dashboard
+Mobile application support
 
----
-
-## 📜 License
-
-MIT License
-
-
-[1]: https://stackoverflow.com/questions/68677250/can-i-embed-a-google-document-in-githubs-readme-md-using-markdown?utm_source=chatgpt.com "Can I embed a google document in Github's readme.md ..."
-[2]: https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md?utm_source=chatgpt.com "How to embed a video into GitHub README.md?"
+<p align="center"> <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="250"> </p>
